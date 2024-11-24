@@ -1,5 +1,7 @@
 # Code samples for "Neural Networks and Deep Learning"
 
+https://github.com/gurdeepsinghiet/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
 This repository contains code samples for my book on ["Neural Networks
 and Deep Learning"](http://neuralnetworksanddeeplearning.com).
 
